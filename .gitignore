@@ -149,3 +149,4 @@ manage.py
 myshop/
 shop/
 templates/
+.idea/vcs.xml
