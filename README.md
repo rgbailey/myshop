@@ -1,3 +1,3 @@
-# myshop
+# DJ shop
 
-Fully featured django online shop
+A fully featured django online shop
